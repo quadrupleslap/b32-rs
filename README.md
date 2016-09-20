@@ -18,4 +18,4 @@ b32 = "0.1.0"
 
 ## License
 
-**[MIT](LICENSE)**.
+This tiny piece of code is published under **[the MIT license](LICENSE)**.

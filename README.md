@@ -3,8 +3,8 @@
 A simple base-32 encoder/decoder. It only has two functions:
 
 ```rust
-b32::encode(String) -> String;
-b32::decode(String) -> Option<String>;
+b32::encode(&str) -> String;
+b32::decode(&str) -> Option<String>;
 ```
 
 ## Install
